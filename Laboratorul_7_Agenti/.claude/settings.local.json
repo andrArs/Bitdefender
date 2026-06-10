@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "PowerShell(cd \"c:\\\\Users\\\\Andreea\\\\Desktop\\\\bitdefender\\\\Laboratorul_7_Agenti\\\\Laboratorul_7_Agenti\"; Start-Process powershell -ArgumentList '-NoExit', '-Command', 'cd \"c:\\\\Users\\\\Andreea\\\\Desktop\\\\bitdefender\\\\Laboratorul_7_Agenti\\\\Laboratorul_7_Agenti\"; python -m uvicorn section_1.server:app --reload')"
-    ]
-  }
-}
