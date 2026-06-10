@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+mcp
+pypdf
+agno
+openai
+sqlalchemy

@@ -1,0 +1,50 @@
+Day,Start Time,End Time,Activity,Subject,Type
+Monday,08:00,10:00,Session,Algorithms,Course
+Monday,10:00,10:15,Break,,
+Monday,10:15,12:15,Session,Data Structures,Lab
+Monday,12:15,12:30,Break,,
+Monday,12:30,14:30,Session,Operating Systems,Course
+Monday,14:30,14:45,Break,,
+Monday,14:45,16:45,Session,Databases,Lab
+Monday,16:45,17:00,Break,,
+Monday,17:00,19:00,Session,Computer Networks,Course
+
+Tuesday,08:00,10:00,Session,Artificial Intelligence,Course
+Tuesday,10:00,10:15,Break,,
+Tuesday,10:15,12:15,Session,Algorithms,Lab
+Tuesday,12:15,12:30,Break,,
+Tuesday,12:30,14:30,Session,Data Structures,Course
+Tuesday,14:30,14:45,Break,,
+Tuesday,14:45,16:45,Session,Operating Systems,Lab
+Tuesday,16:45,17:00,Break,,
+Tuesday,17:00,19:00,Session,Databases,Course
+
+Wednesday,08:00,10:00,Session,Computer Networks,Lab
+Wednesday,10:00,10:15,Break,,
+Wednesday,10:15,12:15,Session,Artificial Intelligence,Lab
+Wednesday,12:15,12:30,Break,,
+Wednesday,12:30,14:30,Session,Algorithms,Course
+Wednesday,14:30,14:45,Break,,
+Wednesday,14:45,16:45,Session,Data Structures,Lab
+Wednesday,16:45,17:00,Break,,
+Wednesday,17:00,19:00,Session,Operating Systems,Course
+
+Thursday,08:00,10:00,Session,Databases,Lab
+Thursday,10:00,10:15,Break,,
+Thursday,10:15,12:15,Session,Computer Networks,Course
+Thursday,12:15,12:30,Break,,
+Thursday,12:30,14:30,Session,Artificial Intelligence,Course
+Thursday,14:30,14:45,Break,,
+Thursday,14:45,16:45,Session,Algorithms,Lab
+Thursday,16:45,17:00,Break,,
+Thursday,17:00,19:00,Session,Data Structures,Course
+
+Friday,08:00,10:00,Session,Operating Systems,Lab
+Friday,10:00,10:15,Break,,
+Friday,10:15,12:15,Session,Databases,Course
+Friday,12:15,12:30,Break,,
+Friday,12:30,14:30,Session,Computer Networks,Lab
+Friday,14:30,14:45,Break,,
+Friday,14:45,16:45,Session,Artificial Intelligence,Lab
+Friday,16:45,17:00,Break,,
+Friday,17:00,19:00,Session,Algorithms,Course

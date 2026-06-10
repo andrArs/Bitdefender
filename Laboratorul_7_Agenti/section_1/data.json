@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Computer Programming",
+    "description": "Introduction to basic programming concepts, variables, conditions, and loops."
+  },
+  {
+    "id": 2,
+    "name": "Programming Techniques",
+    "description": "Practical methods for writing clean, organized, and reusable code."
+  },
+  {
+    "id": 3,
+    "name": "Object Oriented Programming",
+    "description": "Classes, objects, inheritance, encapsulation, and polymorphism."
+  },
+  {
+    "id": 4,
+    "name": "Data Structures and Algorithms",
+    "description": "Lists, stacks, queues, trees, sorting, searching, and algorithm complexity."
+  },
+  {
+    "id": 5,
+    "name": "Fundamentals of AI",
+    "description": "Basic ideas behind intelligent systems, search, reasoning, and machine learning."
+  },
+  {
+    "id": 6,
+    "name": "AI Bitdefender Lab 7: Agents",
+    "description": "This is inserted right now by a client."
+  },
+  {
+    "id": 7,
+    "name": "AI Bitdefender Lab 7: Agents",
+    "description": "This is inserted right now by a client."
+  },
+  {
+    "id": 8,
+    "name": "test1",
+    "description": "test2222"
+  },
+  {
+    "id": 9,
+    "name": "AI Bitdefender Lab 7: Agents",
+    "description": "This is inserted right now by a client."
+  }
+]
