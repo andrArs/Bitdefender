@@ -1,0 +1,46 @@
+{
+  "inflammation": {
+    "description": "Early healing phase: redness, swelling and warmth around the wound are normal.",
+    "duration": "Typically lasts 1–5 days after injury or surgery.",
+    "care_tips": [
+      "Keep the wound clean and dry.",
+      "Do not scratch or rub the area.",
+      "Change dressings as instructed.",
+      "Mild swelling and redness are expected."
+    ],
+    "dangerous": false
+  },
+  "normal_healing": {
+    "description": "The wound is progressing through the healing process normally.",
+    "duration": "Can last from a few days to several weeks depending on wound size.",
+    "care_tips": [
+      "Continue keeping the wound clean.",
+      "Avoid exposing the wound to direct sunlight.",
+      "Stay hydrated and eat a balanced diet to support healing.",
+      "Watch for any sudden changes in appearance."
+    ],
+    "dangerous": false
+  },
+  "fully healed": {
+    "description": "The wound has closed and healed completely.",
+    "duration": "Scar maturation can continue for up to 2 years.",
+    "care_tips": [
+      "Moisturize the scar area to improve texture.",
+      "Use SPF 30+ sunscreen on the scar when exposed to sunlight.",
+      "Gentle massage can help soften the scar tissue."
+    ],
+    "dangerous": false
+  },
+  "infected": {
+    "description": "Signs of infection are present: increased redness, swelling, warmth, pus or fever.",
+    "duration": "Requires immediate medical attention.",
+    "care_tips": [],
+    "dangerous": true
+  },
+  "dehiscence": {
+    "description": "The wound has reopened: the edges have separated after surgical closure.",
+    "duration": "Requires immediate medical attention.",
+    "care_tips": [],
+    "dangerous": true
+  }
+}
